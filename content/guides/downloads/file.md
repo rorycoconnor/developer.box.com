@@ -30,7 +30,7 @@ By using the `-L` flag in cURL we are able to automatically follow this
 redirect.
 
 <Message>
-  In our SDKs this will result in the binary data to be downloaded. In the API
+  In ou SDKs this will result in the binary data to be downloaded. In the API
   this will result in a download URL being returned via the `location` header.
 
   It is possible to [get the download URL][downloadurl] via the SDKs as well.
